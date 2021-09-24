@@ -1,0 +1,30 @@
+.j-icon-range-container{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.j-date-icon{
+    color: black;
+    font-size: 1.4rem;
+}
+
+.j-range-text{
+    color: black;
+    font-weight: normal;
+    font-size: 1.4375rem;
+    margin: 0;
+}
+
+.j-name-text{
+    font-size: 1.5625rem;
+    color: black;
+    font-weight: bold;
+    margin: 0.2rem 0 0.2rem 0;
+}
+
+.j-title-text{
+    font-size: 1rem;
+    color: black;
+    font-weight: normal ;
+}

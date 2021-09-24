@@ -1,0 +1,48 @@
+.j-contact-me-area{
+    background-color: #F1D335;
+}
+
+.j-contact-me-title{
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+.j-contact-me-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6rem 0 4rem 0;
+}
+
+.j-contact-input-name{
+    margin-bottom: 0.5rem;
+}
+
+.j-contact-input-email{
+    margin-bottom: 1rem;
+}
+
+.j-contact-input-message{
+    margin-bottom: 1rem;
+}
+
+.j-contact-btn-content{
+    display: flex;
+    justify-content: center;
+}
+
+.j-contact-btn{
+    background-color: black;
+    font-family: Roboto;
+    color: white;
+    padding: 0.3rem 3rem 0.3em 3rem;
+}
+
+.j-contact-btn:hover{
+    background-color: #2B2B2B;
+    color: white;
+}

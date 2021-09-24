@@ -1,0 +1,30 @@
+.bg-myBackground{
+    background-color: #161616;
+}
+
+.j-navBar-content{
+    padding: 0.7em 0 0.7em 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #161616;
+}
+
+.j-nav-bar-area{
+    display: flex;
+    justify-content: space-between;
+}
+
+.j-nav-text{
+    color: #CFCFCF;
+    font-size: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.j-nav-options-container{
+    display: flex;
+    justify-content: space-between;
+}

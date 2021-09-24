@@ -1,0 +1,43 @@
+.j-resume-area{
+    background-color: #F1D335;
+}
+
+.j-resume-content{
+    padding: 6rem 0 4rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.j-resume-title{
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 4rem;
+}
+
+.j-resume-title-content{
+    display: flex;
+    justify-content: center;
+}
+
+.j-tecnologies-area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.j-tecnologies-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    grid-gap: 1rem;
+}
+
+.j-resume-subtitle{
+    color: black;
+    font-weight: 500;
+    font-size: 1.5625rem;
+    text-align: center;
+    margin: 0 0 4rem 0;
+}

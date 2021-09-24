@@ -1,0 +1,57 @@
+body{
+    font-family: Roboto;
+}
+
+.j-about-me-content{
+    background-color: black;
+    padding-bottom: 4em;
+}
+
+.j-about-title{
+    color: #F1D335;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.j-about-photo{
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.j-mail-icon{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.j-about-email{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.j-about-title-center{
+    display: flex;
+    justify-content: center;
+    margin: 6rem 0 4rem 0;
+}
+
+.j-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 1rem;
+}
+
+.j-about-subtitle-text{
+    color: white;
+    font-weight: normal;
+    font-size: 1.25rem;
+}
+
+.j-about-text{
+    color: #CFCFCF;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.9rem;
+}

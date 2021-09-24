@@ -1,0 +1,53 @@
+.j-proyect-container{
+    background-color: #19191b;
+    box-shadow: 0 0 10px #19191b;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.j-proyect-name{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.j-proyect-description{
+    color: #CFCFCF;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.9rem;
+    margin-bottom: 2rem;
+}
+
+.j-buttons-container{
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+}
+
+.j-proyect-btn{
+    background-color: #F1D335;
+    border-radius: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.j-proyect-icon{
+    font-size: 1.3rem;
+}
+
+.j-proyect-btn:hover{
+    background-color: #FFE55A;
+}
+
+.j-proyect-image{
+    width: 100%;
+    height: fit-content;
+    border-radius: 0.5rem;
+}
