@@ -29,6 +29,12 @@ function Proyects(){
                     visit
                     visitLink = "https://youtu.be/fmpPnwXinhE"
                     />
+                    <ProyectContent name = "Películas"
+                    description = 'Desarrollada en flutter, esta aplicación de peliculas consume el api de Movie Database (TMDB) para consultar la información de cualquier pelicula y de sus actores. En su homePage presenta las películas más populares y las que se encuentran en cartela de cines.'
+                    urlImage = "../assets/Images/movies.png"
+                    code
+                    codeLink = "https://github.com/johangv/Movie-app"
+                    />
                 </div>
             </div>
         </div>

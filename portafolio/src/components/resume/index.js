@@ -39,10 +39,9 @@ function Resume(){
                         <Tecnology icon = {<SiJava className = "j-tecnology-icon"/>} name = "Java"/>
                         <Tecnology icon = {<GrReactjs className = "j-tecnology-icon"/>} name = "React.js"/>
                         <Tecnology icon = {<BsFillBootstrapFill className = "j-tecnology-icon"/>} name = "Bootstrap"/>
-                        <Tecnology icon = {<SiJava className = "j-tecnology-icon"/>} name = "Java for Android"/>
                         <Tecnology icon = {<SiFlutter className = "j-tecnology-icon"/>} name = "Flutter"/>
                         <Tecnology icon = {<SiLaravel className = "j-tecnology-icon"/>} name = "Laravel"/>
-                        <Tecnology icon = {<GrMysql className = "j-tecnology-icon"/>} name = "MySql"/>
+                        <Tecnology icon = {<GrMysql className = "j-tecnology-icon"/>} name = "MySQL"/>
                         <Tecnology icon = {<SiFirebase className = "j-tecnology-icon"/>} name = "Firebase"/>
                         <Tecnology icon = {<FaGitAlt className = "j-tecnology-icon"/>} name = "Git"/>
                     </div>
